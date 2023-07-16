@@ -1,0 +1,44 @@
+.\tim32.o: ..\sys\tim32.c
+.\tim32.o: ..\sys\tim32.h
+.\tim32.o: ..\ti\driverlib.h
+.\tim32.o: ..\ti\adc14.h
+.\tim32.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\tim32.o: ..\ti\msp.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp_compatibility.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r_classic.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\tim32.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\system_msp432p401r.h
+.\tim32.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+.\tim32.o: ..\ti\aes256.h
+.\tim32.o: ..\ti\comp_e.h
+.\tim32.o: ..\ti\cpu.h
+.\tim32.o: ..\ti\crc32.h
+.\tim32.o: ..\ti\cs.h
+.\tim32.o: ..\ti\dma.h
+.\tim32.o: ..\ti\eusci.h
+.\tim32.o: ..\ti\flash.h
+.\tim32.o: ..\ti\fpu.h
+.\tim32.o: ..\ti\gpio.h
+.\tim32.o: ..\ti\i2c.h
+.\tim32.o: ..\ti\interrupt.h
+.\tim32.o: ..\ti\mpu.h
+.\tim32.o: ..\ti\pcm.h
+.\tim32.o: ..\ti\pmap.h
+.\tim32.o: ..\ti\pss.h
+.\tim32.o: ..\ti\ref_a.h
+.\tim32.o: ..\ti\reset.h
+.\tim32.o: ..\ti\rom.h
+.\tim32.o: ..\ti\rom_map.h
+.\tim32.o: ..\ti\rtc_c.h
+.\tim32.o: ..\ti\spi.h
+.\tim32.o: ..\ti\sysctl.h
+.\tim32.o: ..\ti\systick.h
+.\tim32.o: ..\ti\timer32.h
+.\tim32.o: ..\ti\timer_a.h
+.\tim32.o: ..\ti\uart.h
+.\tim32.o: ..\ti\wdt_a.h
+.\tim32.o: ..\sys\usart.h
+.\tim32.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdio.h

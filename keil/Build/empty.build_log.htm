@@ -1,0 +1,67 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¶ÃVision V5.23.0.0
+Copyright (C) 2017 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: ”»”Í—Ù ”»”Í—Ù, ”»”Í—Ù, LIC=NQQMA-1UTF2-01EP1-CPRVE-H6EJL-WXQCK
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.23
+Toolchain Path:  D:\Keil 5--MDK\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 4 (build 422)
+Assembler:       Armasm.exe V5.06 update 4 (build 422)
+Linker/Locator:  ArmLink.exe V5.06 update 4 (build 422)
+Library Manager: ArmAr.exe V5.06 update 4 (build 422)
+Hex Converter:   FromElf.exe V5.06 update 4 (build 422)
+CPU DLL:         SARMCM3.DLL V5.23
+Dialog DLL:      DCM.DLL V1.15.0.0
+Target DLL:      CMSIS_AGDI.dll V1.27.5.0
+Dialog DLL:      TCM.DLL V1.27.0.0
+ 
+<h2>Project:</h2>
+D:\MSP432\base\keil\empty.uvprojx
+Project File Date:  07/14/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 4 (build 422)', folder: 'D:\Keil 5--MDK\ARM\ARMCC\Bin'
+Rebuild target 'empty'
+compiling startup_msp432p401r_uvision.s...
+compiling system_msp432p401r.c...
+compiling main.c...
+..\user\main.c(63): warning:  #177-D: variable "key"  was declared but never referenced
+       uint8_t key;
+..\user\main.c: 1 warning, 0 errors
+compiling delay.c...
+compiling key.c...
+compiling baudrate_calculate.c...
+compiling led.c...
+compiling sysinit.c...
+compiling usart.c...
+linking...
+Program Size: Code=3136 RO-data=356 RW-data=60 ZI-data=612  
+FromELF: creating hex file...
+After Build - User command #1: fromelf --bin --output .\Build\empty.bin .\Build\empty.axf
+".\Build\empty.axf" - 0 Error(s), 1 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.0.1.pack
+                ARM::CMSIS:CORE:5.0.1
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.0.1
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_empty
+  d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include
+  d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.0.1
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

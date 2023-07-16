@@ -1,0 +1,44 @@
+.\build\usart.o: ..\sys\usart.c
+.\build\usart.o: ..\sys\usart.h
+.\build\usart.o: ..\ti\driverlib.h
+.\build\usart.o: ..\ti\adc14.h
+.\build\usart.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\usart.o: ..\ti\msp.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp_compatibility.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r_classic.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\build\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\system_msp432p401r.h
+.\build\usart.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+.\build\usart.o: ..\ti\aes256.h
+.\build\usart.o: ..\ti\comp_e.h
+.\build\usart.o: ..\ti\cpu.h
+.\build\usart.o: ..\ti\crc32.h
+.\build\usart.o: ..\ti\cs.h
+.\build\usart.o: ..\ti\dma.h
+.\build\usart.o: ..\ti\eusci.h
+.\build\usart.o: ..\ti\flash.h
+.\build\usart.o: ..\ti\fpu.h
+.\build\usart.o: ..\ti\gpio.h
+.\build\usart.o: ..\ti\i2c.h
+.\build\usart.o: ..\ti\interrupt.h
+.\build\usart.o: ..\ti\mpu.h
+.\build\usart.o: ..\ti\pcm.h
+.\build\usart.o: ..\ti\pmap.h
+.\build\usart.o: ..\ti\pss.h
+.\build\usart.o: ..\ti\ref_a.h
+.\build\usart.o: ..\ti\reset.h
+.\build\usart.o: ..\ti\rom.h
+.\build\usart.o: ..\ti\rom_map.h
+.\build\usart.o: ..\ti\rtc_c.h
+.\build\usart.o: ..\ti\spi.h
+.\build\usart.o: ..\ti\sysctl.h
+.\build\usart.o: ..\ti\systick.h
+.\build\usart.o: ..\ti\timer32.h
+.\build\usart.o: ..\ti\timer_a.h
+.\build\usart.o: ..\ti\uart.h
+.\build\usart.o: ..\ti\wdt_a.h
+.\build\usart.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\usart.o: ..\sys\baudrate_calculate.h

@@ -1,0 +1,44 @@
+..\obj\usart.o: ..\sys\usart.c
+..\obj\usart.o: ..\sys\usart.h
+..\obj\usart.o: ..\ti\driverlib.h
+..\obj\usart.o: ..\ti\adc14.h
+..\obj\usart.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usart.o: ..\ti\msp.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp_compatibility.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\msp432p401r_classic.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+..\obj\usart.o: d:\Keil_v5\ARM\PACK\TexasInstruments\MSP432P4xx_DFP\3.2.6\Device\Include\system_msp432p401r.h
+..\obj\usart.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\usart.o: ..\ti\aes256.h
+..\obj\usart.o: ..\ti\comp_e.h
+..\obj\usart.o: ..\ti\cpu.h
+..\obj\usart.o: ..\ti\crc32.h
+..\obj\usart.o: ..\ti\cs.h
+..\obj\usart.o: ..\ti\dma.h
+..\obj\usart.o: ..\ti\eusci.h
+..\obj\usart.o: ..\ti\flash.h
+..\obj\usart.o: ..\ti\fpu.h
+..\obj\usart.o: ..\ti\gpio.h
+..\obj\usart.o: ..\ti\i2c.h
+..\obj\usart.o: ..\ti\interrupt.h
+..\obj\usart.o: ..\ti\mpu.h
+..\obj\usart.o: ..\ti\pcm.h
+..\obj\usart.o: ..\ti\pmap.h
+..\obj\usart.o: ..\ti\pss.h
+..\obj\usart.o: ..\ti\ref_a.h
+..\obj\usart.o: ..\ti\reset.h
+..\obj\usart.o: ..\ti\rom.h
+..\obj\usart.o: ..\ti\rom_map.h
+..\obj\usart.o: ..\ti\rtc_c.h
+..\obj\usart.o: ..\ti\spi.h
+..\obj\usart.o: ..\ti\sysctl.h
+..\obj\usart.o: ..\ti\systick.h
+..\obj\usart.o: ..\ti\timer32.h
+..\obj\usart.o: ..\ti\timer_a.h
+..\obj\usart.o: ..\ti\uart.h
+..\obj\usart.o: ..\ti\wdt_a.h
+..\obj\usart.o: D:\Keil 5--MDK\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\usart.o: ..\sys\baudrate_calculate.h
